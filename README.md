@@ -1,10 +1,6 @@
 # template
-### Pre-Development
-This repository is a template.
-
-Update links as necessary.
-
-Do not push to this repo.
+### Pre-Development ~In-Development~ ~v0.0.1~
+This repository is a template. Update links and settings as necessary. Do not push to this repository.
 
 #### View this repository on [Codeberg][01], [GitHub][02].
 [01]: https://codeberg.org/portellam/template
