@@ -3,9 +3,10 @@
 This repository is a template. Update links and settings as necessary. Do not push to this repository.
 
 ### [Download](#2-download)
-#### View this repository on [Codeberg][01], [GitHub][02].
+#### View this repository on [Codeberg][01], [Gitea][02], or [GitHub][03].
 [01]: https://codeberg.org/portellam/template
-[02]: https://github.com/portellam/template
+[02]: https://gitea.com/portellam/template
+[03]: https://github.com/portellam/template
 ##
 
 ## Table of Contents
