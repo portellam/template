@@ -3,7 +3,7 @@
 This repository is a template. Update links and settings as necessary. Do not push to this repository.
 
 ### [Download](#2-download)
-#### View this repository on [Codeberg][01], [Gitea][02], or [GitHub][03].
+#### View this repository on [GitHub][03], [Codeberg][01], or [Gitea][02].
 [01]: https://codeberg.org/portellam/template
 [02]: https://gitea.com/portellam/template
 [03]: https://github.com/portellam/template
@@ -11,11 +11,11 @@ This repository is a template. Update links and settings as necessary. Do not pu
 
 ## Table of Contents
 - [1. Download](#1-download)
-- [1. Contact](#2-contact)
+- [2. Contact](#2-contact)
 
 ## Contents
 ### 1. Download
-- Download the Latest Release:&ensp;[Codeberg][11], [GitHub][12]
+- Download the Latest Release:&ensp;[GitHub][12], [Codeberg][11], or [Gitea][12].
 
 - Download the `.zip` file:
     1. Viewing from the top of the repository's (current) webpage, click the
@@ -37,11 +37,11 @@ This repository is a template. Update links and settings as necessary. Do not pu
     2. Change your directory to your home folder or anywhere safe:
         - `cd ~`
     3. Clone the repository:
-        - `git clone https://www.codeberg.org/portellam/template`
         - `git clone https://www.github.com/portellam/template`
 
 [11]: https://codeberg.org/portellam/template/releases/latest
-[12]: https://github.com/portellam/template/releases/latest
+[12]: https://gitea.com/portellam/template/releases/latest
+[13]: https://github.com/portellam/template/releases/latest
 
 ### 2. Contact
 Do you need help? Please visit the [Issues][21] page.
