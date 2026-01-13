@@ -1,5 +1,5 @@
 <a href="https://github.com/portellam/template/releases/latest">
-  <img align="left" width="100" height="100" src="../images/logo.png" alt="Template"/>
+  <img align="left" width="100" height="100" src="../images/logo.png" alt="Insert logo name here"/>
 </a>
 </br>
 </br>
@@ -9,6 +9,9 @@
 <h1>
 template
 </h1>
+<h6>
+[v0.0.1](../VERSION)
+</h6>
 
 This repository is a template. Update links and settings as necessary. Do not push to this repository.
 </br>
