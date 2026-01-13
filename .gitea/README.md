@@ -13,7 +13,7 @@ template
 This repository is a template. Update links and settings as necessary. Do not push to this repository.
 </br>
 </br>
-Download [here.][#4-download]
+Download [here.](#4-download)
 </br>
 </br>
 
@@ -37,10 +37,10 @@ Lorem ipsum.
 Lorem ipsum.
 
 ## 4. Download
-- Download the latest *release* [here.](../../../../releases/latest)
+- Download the **latest release** [here.](../../../../releases/latest)
 
-- Download the default *branch* as an archive file:
-   1. View from the top of the web page, click the drop-down icon `< >`.
+- Download the **latest changes** of the default branch as an archive file:
+   1. View from the top of the web page, click the drop-down icon: `< > Code`
    2. Click (pick one) and save:
      - `Download ZIP`
      - `Download TAR.GZ`

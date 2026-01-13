@@ -13,7 +13,7 @@ template
 This repository is a template. Update links and settings as necessary. Do not push to this repository.
 </br>
 </br>
-Download [here.][#4-download]
+Download [here.](#4-download)
 </br>
 </br>
 
@@ -37,10 +37,10 @@ Lorem ipsum.
 Lorem ipsum.
 
 ## 4. Download
-[!INFO]
-- Download the latest *release* [here.](https://github.com/portellam/template/releases/latest)
-- Download the default *branch* as an archive file:
-   1. View from the top of the web page, click the drop-down icon `···`.
+- Download the **latest release** [here.](https://github.com/portellam/template/releases/latest)
+
+- Download the **latest changes** of the default branch as an archive file:
+   1. View from the top of the web page, click the drop-down icon: `···`
    2. Click `Download ZIP` and save.
    3. Open the archive file, then extract its contents.
 
