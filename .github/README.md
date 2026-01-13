@@ -9,7 +9,7 @@
 <h1>
 template
 </h1>
-####### [v0.0.1](../VERSION)
+https://github.com/portellam/template/src/commit/e90bfff4ba73ff02da4383cb328262acea959298/VERSION#L1
 
 This repository is a template. Update links and settings as necessary. Do not push to this repository.
 </br>
