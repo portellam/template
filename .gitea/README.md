@@ -1,5 +1,4 @@
 <a href="../../../../releases/latest">
-  Logo here
   <img align="left" width="100" height="100" src="../images/logo.png" alt="Template"/>
 </a>
 </br>
@@ -38,17 +37,15 @@ Lorem ipsum.
 Lorem ipsum.
 
 ## 4. Download
-> [!INFO]
-> - Download the latest *release* [here.](../../../../releases/latest)
->
-> - Download the default *branch* as an archive file:
->    1. View from the top of the web page, click the drop-down icon `< >`.
->    2. Click (pick one) and save:
->      - `Download ZIP`
->      - `Download TAR.GZ`
->      - `Download BUNDLE`
->    3. Open the archive file, then extract its contents.
->
+- Download the latest *release* [here.](../../../../releases/latest)
+
+- Download the default *branch* as an archive file:
+   1. View from the top of the web page, click the drop-down icon `< >`.
+   2. Click (pick one) and save:
+     - `Download ZIP`
+     - `Download TAR.GZ`
+     - `Download BUNDLE`
+   3. Open the archive file, then extract its contents.
 
 ## 5. Installation
 Lorem ipsum.
