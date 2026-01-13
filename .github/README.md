@@ -9,9 +9,7 @@
 <h1>
 template
 </h1>
-<h6>
-[v0.0.1](../VERSION)
-</h6>
+####### [v0.0.1](../VERSION)
 
 This repository is a template. Update links and settings as necessary. Do not push to this repository.
 </br>
