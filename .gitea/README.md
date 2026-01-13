@@ -9,7 +9,7 @@
 <h1>
 template
 </h1>
-http://codeberg.org/portellam/template/src/commit/310725e26cc1bd3a5309f8b6969cd89b667a92e1/VERSION#L1
+<h6 href="../VERSION">v0.0.1</h6>
 
 This repository is a template. Update links and settings as necessary. Do not push to this repository.
 </br>
