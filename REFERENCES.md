@@ -62,11 +62,9 @@ Pixabay. Accessed 2026-01-13.
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;Archive:&nbsp;</sup>
 <sup>No attempt.</sup>
 
+---
+
 <!-- BACKLINKS -->
 <p align="right">
-  (
-    <a href="#references-top">
-      back to top
-    </a>
-  )
+  Click <a href="#top">here</a> to return to the top of the page.
 </p>
