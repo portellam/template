@@ -5,8 +5,7 @@
     <img width="100" height="100" src="../images/logo.svg" alt="Template"/>
   </a>
   <!-- GitHub compatible (uncomment as needed) -->
-  <!-&emsp;
-<a href="../../releases/latest">
+  <!-- <a href="../../releases/latest">
     <img width="100" height="100" src="../images/logo.svg" alt="Template"/>
   </a> -->
 </div>
