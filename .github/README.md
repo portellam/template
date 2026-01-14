@@ -23,16 +23,19 @@ Download [here.][DOWNLOAD-URL]
 
 <!-- REPOSITORY MIRRORS -->
 Available on...
-- <a href="codeberg.org">  <!-- CHANGEME -->
-  <img title="Codeberg" height="30" src="../images/codeberg.org.png"/>
-</a>
-- <a href="gitea.com">  <!-- CHANGEME -->
+- [Codeberg][CODEBERG_URL]
+  &nbsp;
+  <a href="https://codeberg.org/portellam/template">  <!-- CHANGEME -->
+    <img title="Codeberg" height="30" src="../images/codeberg.org.png"/>
+  </a>
+- [Gitea][GITEA_URL]
+  &nbsp;<a href="https://gitea.com/portellam/template">  <!-- CHANGEME -->
     <img title="Gitea" height="30" src="../images/gitea.com.png"/>
-</a>
-- <a href="github.com">  <!-- CHANGEME -->
-  <img title="GitHub" height="30" src="../images/github.com.png"/>
-</a>
-
+  </a>
+- &nbsp;
+  <a href="https://github.com/portellam/template">  <!-- CHANGEME -->
+    <img title="GitHub" height="30" src="../images/github.com.png"/>
+  </a>
 
 <!-- TABLE OF CONTENTS -->
 <div align="left">
@@ -157,6 +160,10 @@ See [REFERENCES.md][REFERENCES-URL] for more information.
 </p>
 
 <!-- LINKS -->
+[CODEBERG_URL]: https://codeberg.org/portellam/template
+[GITEA_URL]: https://gitea.com/portellam/template
+[GITHUB]: https://github.com/portellam/template
+
 [ACKNOWLEDGEMENTS-LOGO-URL]: ../REFERENCES.md#logo
 [ACKNOWLEDGEMENTS-LOGO-AUTHOR-URL]: ../REFERENCES.md#logo-author
 [CONTRIBUTING-URL]: ./CONTRIBUTING.md
