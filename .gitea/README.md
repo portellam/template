@@ -83,20 +83,20 @@ Lorem ipsum.
 Available on...
 </br>
 </br>
-<sup>></sup>
+<sup>•</sup>
 &nbsp;
 <a href="https://codeberg.org/portellam/template">  <!-- CHANGEME -->
   <img title="Codeberg" height="30" src="../images/codeberg.org.png"/>
 </a>
 </br>
 </br>
-<sup>></sup>&nbsp;
+<sup>•</sup>&nbsp;
 <a href="https://gitea.com/portellam/template">  <!-- CHANGEME -->
   <img title="Gitea" height="30" src="../images/gitea.com.png"/>
 </a>
 </br>
 </br>
-<sup>></sup>&nbsp;
+<sup>•</sup>&nbsp;
 <a href="https://github.com/portellam/template">  <!-- CHANGEME -->
   <img title="GitHub" height="30" src="../images/github.com.png"/>
 </a>
