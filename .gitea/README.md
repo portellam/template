@@ -28,10 +28,16 @@ Available on...
   </a>
   &nbsp;
   &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
   [Codeberg][CODEBERG_URL]
 - <a href="https://gitea.com/portellam/template">  <!-- CHANGEME -->
     <img title="Gitea" height="30" src="../images/gitea.com.png"/>
   </a>
+  &nbsp;
+  &nbsp;
   &nbsp;
   &nbsp;
   [Gitea][GITEA_URL]
