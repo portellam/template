@@ -22,28 +22,16 @@ Download [here.][DOWNLOAD-URL]
 </br>
 
 <!-- REPOSITORY MIRRORS -->
-<div align="left">
-  <p>
-    Available on...
-    <ol>
-      <li>
-      <a href="codeberg.org">  <!-- CHANGEME -->
-        <img title="Codeberg" height="30" src="../images/codeberg.org.png"/>
-      </a>
-      </li>
-      <li>
-        <a href="gitea.com">  <!-- CHANGEME -->
-          <img title="Gitea" height="30" src="../images/gitea.com.png"/>
-        </a>
-      </li>
-      <li>
-        <a href="github.com">  <!-- CHANGEME -->
-          <img title="GitHub" height="30" src="../images/github.com.png"/>
-        </a>
-      </li>
-    </ol>
-  </p>
-</div>
+Available on...
+- <a href="codeberg.org">  <!-- CHANGEME -->
+  <img title="Codeberg" height="30" src="../images/codeberg.org.png"/>
+</a>
+- <a href="gitea.com">  <!-- CHANGEME -->
+    <img title="Gitea" height="30" src="../images/gitea.com.png"/>
+</a>
+- <a href="github.com">  <!-- CHANGEME -->
+  <img title="GitHub" height="30" src="../images/github.com.png"/>
+</a>
 
 <!-- TABLE OF CONTENTS -->
 <div align="left">
