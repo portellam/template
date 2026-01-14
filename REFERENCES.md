@@ -1,5 +1,24 @@
 # References
 
+<!-- TABLE OF CONTENTS -->
+<div align="left">
+  <h2>Table of Contents</h2>
+  <ol>
+    <li>
+      <a href="#creative-commons-zero-cc0">Creative Commons Zero (CC0)</a>
+    </li>
+    <li>
+      <a href="#logo">Logo</a>
+    </li>
+    <li>
+      <a href="#logo-author">Logo Author</a>
+    </li>
+    <li>
+      <a href="#pixabay-terms-of-service">Pixabay Terms of Service</a>
+    </li>
+  </ol>
+</div>
+
 ### Creative Commons Zero (CC0)
 &nbsp;&nbsp;**Legal Code - CC0 1.0 Universal - Creative Commons**.
 Creative Commons. Accessed 2026-01-14.
