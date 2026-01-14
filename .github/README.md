@@ -141,9 +141,6 @@ Open an [issue][ISSUES-URL] on the repository.
 <!-- SHIELDS -->
 [![ko-fi][SUPPORT-KO-FI-LOGO-URL]][SUPPORT-KO-FI-URL]
 
-<!-- LINKS -->
-[SUPPORT-KO-FI-LOGO-URL]: (../images/support_ko-fi.svg)
-
 ## License
 Distributed under the Unlicense.  <!-- CHANGEME -->
 See [LICENSE.md][LICENSE-URL] for more information.
@@ -166,8 +163,9 @@ See [REFERENCES.md][REFERENCES-URL] for more information.
 [ACKNOWLEDGEMENTS-LOGO-AUTHOR-URL]: ../REFERENCES.md#logo-author
 [CONTRIBUTING-URL]: ./CONTRIBUTING.md
 [CONTRIBUTORS-URL]: ./CONTRIBUTORS.md
-[REFERENCES-URL]: ../REFERENCES.md
 [LICENSE-URL]: ../LICENSE
+[REFERENCES-URL]: ../REFERENCES.md
+[SUPPORT-KO-FI-LOGO-URL]: ../images/support_ko-fi.svg
 
   <!-- CHANGEME -->
   [SUPPORT-KO-FI-URL]: https://ko-fi.com/portellam
