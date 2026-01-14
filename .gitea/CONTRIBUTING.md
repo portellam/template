@@ -1,4 +1,24 @@
 # Contributing
-To contribute, contact via the GitHub repository [discussions.](https://github.com/portellam/template/discussions)
+<!-- SHIELDS -->
+<div align="left">
+  [![Contributors][CONTRIBUTORS-COUNT-URL]][CONTRIBUTORS-URL]
+</div>
 
-#### Click [here](./README.md) to return.
+<!-- TEXT -->
+To contribute, contact via the GitHub repository [discussions.][DISCUSSIONS-URL]
+
+<!-- BACKLINKS -->
+<p align="right">
+  (
+    <a href="./README.md">  <!-- CHANGEME -->
+      back to README
+    </a>
+  )
+</p>
+
+<!-- LINKS -->
+[CONTRIBUTORS-URL]: ./CONTRIBUTORS.md
+[DISCUSSIONS-URL]: https://github.com/portellam/template/discussions
+
+  <!-- GitHub compatible (uncomment as needed) -->
+  [CONTRIBUTORS-COUNT-URL]: https://img.shields.io/github/contributors/portellam/template.svg?style=for-the-badge
