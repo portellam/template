@@ -175,14 +175,15 @@ See [REFERENCES.md][REFERENCES-URL] for more information.
 [ACKNOWLEDGEMENTS-LOGO-AUTHOR-URL]: ../REFERENCES.md#logo-author
 [CONTRIBUTING-URL]: ./CONTRIBUTING.md
 [CONTRIBUTORS-URL]: ./CONTRIBUTORS.md
+[DISCUSSIONS-URL]: https://github.com/portellam/template/discussions
 [LICENSE-URL]: ../LICENSE
 [REFERENCES-URL]: ../REFERENCES.md
 [SUPPORT-KO-FI-LOGO-URL]: ../images/support_ko-fi.svg
 
   <!-- CHANGEME -->
-  [CODEBERG_URL]: https://codeberg.org/portellam/template
-  [GITEA_URL]: https://gitea.com/portellam/template
-  [GITHUB_URL]: https://github.com/portellam/template
+  [CODEBERG-URL]: https://codeberg.org/portellam/template
+  [GITEA-URL]: https://gitea.com/portellam/template
+  [GITHUB-URL]: https://github.com/portellam/template
   [SUPPORT-KO-FI-URL]: https://ko-fi.com/portellam
 
   <!-- Gitea compatible (uncomment as needed) -->
@@ -192,6 +193,6 @@ See [REFERENCES.md][REFERENCES-URL] for more information.
   <!-- GitHub compatible (uncomment as needed) -->
   [CONTRIBUTORS-COUNT-URL]: https://img.shields.io/github/contributors/portellam/template.svg?style=for-the-badge
   [DOWNLOAD-URL]: ../../releases/latest
-  [ISSUES-COUNT]: https://img.shields.io/github/issues/portellam/template.svg?style=for-the-badge
+  [ISSUES-COUNT-URL]: https://img.shields.io/github/issues/portellam/template.svg?style=for-the-badge
   [ISSUES-URL]: ../../issues
   [VERSION-URL]: https://img.shields.io/github/v/release/portellam/template?label=LABEL&sort=semve
