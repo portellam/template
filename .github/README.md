@@ -23,18 +23,19 @@ Download [here.][DOWNLOAD-URL]
 
 <!-- REPOSITORY MIRRORS -->
 Available on...
-- &nbsp;
-  <a href="https://codeberg.org/portellam/template">  <!-- CHANGEME -->
+- <a href="https://codeberg.org/portellam/template">  <!-- CHANGEME -->
     <img title="Codeberg" height="30" src="../images/codeberg.org.png"/>
   </a>
+  &nbsp;
+  &nbsp;
   [Codeberg][CODEBERG_URL]
-- &nbsp;
-  <a href="https://gitea.com/portellam/template">  <!-- CHANGEME -->
+- <a href="https://gitea.com/portellam/template">  <!-- CHANGEME -->
     <img title="Gitea" height="30" src="../images/gitea.com.png"/>
   </a>
+  &nbsp;
+  &nbsp;
   [Gitea][GITEA_URL]
-- &nbsp;
-  <a href="https://github.com/portellam/template">  <!-- CHANGEME -->
+- <a href="https://github.com/portellam/template">  <!-- CHANGEME -->
     <img title="GitHub" height="30" src="../images/github.com.png"/>
   </a>
 
@@ -148,7 +149,7 @@ Distributed under the Unlicense.  <!-- CHANGEME -->
 See [LICENSE.md][LICENSE-URL] for more information.
 
 ## Acknowledgements
-- [TLAN_art,][ACKNOWLEDGEMENTS-LOGO-AUTHOR-URL] for the
+- [TLAN_art][ACKNOWLEDGEMENTS-LOGO-AUTHOR-URL], for the
 [logo.][ACKNOWLEDGEMENTS-LOGO-URL]
 
 ## References
