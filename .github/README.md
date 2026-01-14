@@ -13,6 +13,7 @@
 <!-- HEADER -->
 <h1>template</h1><!-- CHANGEME -->
 
+<!-- SHIELDS -->
 [![Version][VERSION-URL]][DOWNLOAD-URL]
 
 <!-- CHANGEME -->
@@ -24,6 +25,7 @@ Download [here.][DOWNLOAD-URL]
 </br>
 </br>
 
+<!-- SHIELDS -->
 [![ko-fi][SUPPORT-KO-FI-LOGO-URL]][SUPPORT-KO-FI-URL]
 
 <!-- TABLE OF CONTENTS -->
@@ -135,14 +137,14 @@ learn, inspire, and create. *Any contributions you make are greatly*
 See [CONTRIBUTING.md][CONTRIBUTING-URL] for more information.
 
 ## Contributors
-
+<!-- SHIELDS -->
 [![Contributors][CONTRIBUTORS-COUNT-URL]][CONTRIBUTORS-URL]
 
 <!-- TEXT -->
 See [CONTRIBUTORS.md][CONTRIBUTORS-URL] for more information.
 
 ## Contact
-
+<!-- SHIELDS -->
 [![Issues][ISSUES-COUNT-URL]][ISSUES-URL]
 
 <!-- TEXT -->
@@ -151,6 +153,7 @@ To contact:
 - Open an [issue][ISSUES-URL] on the repo.
 
 ## Support
+<!-- SHIELDS -->
 [![ko-fi][SUPPORT-KO-FI-LOGO-URL]][SUPPORT-KO-FI-URL]
 
 ## License
