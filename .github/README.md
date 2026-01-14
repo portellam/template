@@ -129,7 +129,7 @@ Lorem ipsum.
 -->
 
 <!-- GitHub version -->
-- Download the **latest changes** of the default branch as an archive file:
+- Download the latest changes of the default branch as an archive file:
    1. View from the top of the web page, click the drop-down icon: `···`
    2. Click `Download ZIP` and save.
    3. Open the archive file, then extract its contents.
