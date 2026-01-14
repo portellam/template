@@ -20,10 +20,10 @@ Creative Commons. Accessed 2026-01-14.
 </p>
 
 ### Logo
-See [here][#logo-author] for information about the author.
+See [here](#logo-author) for information about the author.
 
-Distributed under the [Pixabay Terms of Service][#pixabay-terms-of-service],
-and the [Creative Commons Zero (CC0)][#creative-commons-zero-cc0] license.
+Distributed under the [Pixabay Terms of Service](#pixabay-terms-of-service),
+and the [Creative Commons Zero (CC0)](#creative-commons-zero-cc0) license.
 
 &nbsp;&nbsp;**Download Floppy, Save, Icon. Royalty-Free Vector Graphic - Pixabay**.
 Pixabay. Accessed 2026-01-13.
