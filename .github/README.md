@@ -18,27 +18,34 @@ This repository is a template. Update links and settings as necessary. Do not pu
 </br>
 </br>
 Download [here.][DOWNLOAD-URL]
+</br>
+</br>
 
 <!-- REPOSITORY MIRRORS -->
 <div align="left">
   <p>
     Available on...
-    </br>
-    </br>
-    <a href="codeberg.org">  <!-- CHANGEME -->
-      <img title="Codeberg" height="30" src="../images/codeberg.org.png"/>
-    </a>
-    </br>
-    <a href="gitea.com">  <!-- CHANGEME -->
-      <img title="Gitea" height="30" src="../images/gitea.com.png"/>
-    </a>
-    </br>
-    <a href="github.com">  <!-- CHANGEME -->
-      <img title="GitHub" height="30" src="../images/github.com.png"/>
-    </a>
+    <ol>
+      <li>
+      <a href="codeberg.org">  <!-- CHANGEME -->
+        <img title="Codeberg" height="30" src="../images/codeberg.org.png"/>
+      </a>
+      </li>
+      <li>
+        <a href="gitea.com">  <!-- CHANGEME -->
+          <img title="Gitea" height="30" src="../images/gitea.com.png"/>
+        </a>
+      </li>
+      <li>
+        <a href="github.com">  <!-- CHANGEME -->
+          <img title="GitHub" height="30" src="../images/github.com.png"/>
+        </a>
+      </li>
+    </ol>
   </p>
 </div>
 
+<!-- TABLE OF CONTENTS -->
 <div align="left">
   <h2>Table of Contents</h2>
   <ol>
@@ -170,15 +177,15 @@ See [REFERENCES.md][REFERENCES-URL] for more information.
 [SUPPORT-KO-FI-LOGO-URL]: ../images/support_ko-fi.svg
 
   <!-- CHANGEME -->
-  [SUPPORT-KO-FI-URL]: ko-fi.com
+  [SUPPORT-KO-FI-URL]: https://ko-fi.com/portellam
 
   <!-- Gitea compatible (uncomment as needed) -->
   <!-- [DOWNLOAD-URL]: ../../../../releases/latest
   [ISSUES-URL]: ../../../../issues -->
 
   <!-- GitHub compatible (uncomment as needed) -->
-  [CONTRIBUTORS-COUNT-URL]: img.shields.io
+  [CONTRIBUTORS-COUNT-URL]: https://img.shields.io/github/contributors/portellam/template.svg?style=for-the-badge
   [DOWNLOAD-URL]: ../../releases/latest
-  [ISSUES-COUNT-URL]: img.shields.io
+  [ISSUES-COUNT]: https://img.shields.io/github/issues/portellam/template.svg?style=for-the-badge
   [ISSUES-URL]: ../../issues
-  [VERSION-URL]: img.shields.io
+  [VERSION-URL]: https://img.shields.io/github/v/release/portellam/template?label=LABEL&sort=semve
