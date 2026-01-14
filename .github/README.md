@@ -82,15 +82,18 @@ Lorem ipsum.
 ## Repository Mirrors
 Available on...
 </br>
+</br>
 &emsp;
 <a href="https://codeberg.org/portellam/template">  <!-- CHANGEME -->
   <img title="Codeberg" height="30" src="../images/codeberg.org.png"/>
 </a>
 </br>
+</br>
 &emsp;
 <a href="https://gitea.com/portellam/template">  <!-- CHANGEME -->
   <img title="Gitea" height="30" src="../images/gitea.com.png"/>
 </a>
+</br>
 </br>
 &emsp;
 <a href="https://github.com/portellam/template">  <!-- CHANGEME -->
