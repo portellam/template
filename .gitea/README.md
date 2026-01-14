@@ -17,6 +17,7 @@
 
 This repository is a template. Update links and settings as necessary. Do not push to this repository.  <!-- CHANGEME -->
 </br>
+</br>
 Download [here.][DOWNLOAD-URL]
 
 <!-- TABLE OF CONTENTS -->
@@ -75,10 +76,12 @@ Available on...
 <a href="https://codeberg.org/portellam/template">  <!-- CHANGEME -->
   <img title="Codeberg" height="30" src="../images/codeberg.org.png"/>
 </a>
+</br>
 &emsp;
 <a href="https://gitea.com/portellam/template">  <!-- CHANGEME -->
   <img title="Gitea" height="30" src="../images/gitea.com.png"/>
 </a>
+</br>
 &emsp;
 <a href="https://github.com/portellam/template">  <!-- CHANGEME -->
   <img title="GitHub" height="30" src="../images/github.com.png"/>
