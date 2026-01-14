@@ -71,7 +71,7 @@ Download [here.][DOWNLOAD-URL]
       <a href="#license">License</a>
     </li>
     <li>
-      <a href="#acknowledgments">Acknowledgments</a>
+      <a href="#acknowledgements">Acknowledgements</a>
     </li>
     <li>
       <a href="#references">References</a>
