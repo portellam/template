@@ -17,7 +17,7 @@
 
 <!-- CHANGEME -->
 This repository is a template. Update links and settings as necessary.
-Do not push to this repository.
+*Do not push to this repo.*
 </br>
 </br>
 Download [here.][DOWNLOAD-URL]
@@ -75,7 +75,7 @@ Download [here.][DOWNLOAD-URL]
 ## About
 Lorem ipsum.
 
-## Mirrors
+## Repository Mirrors
 Available on...
 </br>
 &emsp;
@@ -146,7 +146,9 @@ See [CONTRIBUTORS.md][CONTRIBUTORS-URL] for more information.
 [![Issues][ISSUES-COUNT-URL]][ISSUES-URL]
 
 <!-- TEXT -->
-Open an [issue][ISSUES-URL] on the repository.
+To contact:
+- Visit the GitHub repository [discussions.][DISCUSSIONS-URL]
+- Open an [issue][ISSUES-URL] on the repo.
 
 ## Support
 [![ko-fi][SUPPORT-KO-FI-LOGO-URL]][SUPPORT-KO-FI-URL]
