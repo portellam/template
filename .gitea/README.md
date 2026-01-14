@@ -73,6 +73,9 @@ Download [here.][DOWNLOAD-URL]
     <li>
       <a href="#acknowledgments">Acknowledgments</a>
     </li>
+    <li>
+      <a href="#references">References</a>
+    </li>
   </ol>
 </div>
 
@@ -170,9 +173,11 @@ See [LICENSE.md][LICENSE-URL] for more information.
 <!-- TEXT-->
 See [REFERENCES.md][REFERENCES-URL] for more information.
 
+###
+
 <!-- BACKLINKS -->
 <p align="right">
-  (<a href="#readme-top">back to top</a>)
+  Click <a href="#readme-top">here</a> to return to the top of the page.
 </p>
 
 <!-- LINKS -->
