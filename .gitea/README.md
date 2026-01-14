@@ -173,7 +173,7 @@ See [LICENSE.md][LICENSE-URL] for more information.
 <!-- TEXT-->
 See [REFERENCES.md][REFERENCES-URL] for more information.
 
-###
+---
 
 <!-- BACKLINKS -->
 <p align="right">
