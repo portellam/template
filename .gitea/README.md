@@ -12,7 +12,6 @@
 
 <!-- HEADER -->
 <h1>template</h1><!-- CHANGEME -->
-<!-- SHIELDS -->
 
 [![Version][VERSION-URL]][DOWNLOAD-URL]
 
@@ -22,6 +21,10 @@ Do not push to this repository.
 </br>
 </br>
 Download [here.][DOWNLOAD-URL]
+</br>
+</br>
+
+[![ko-fi][SUPPORT-KO-FI-LOGO-URL]][SUPPORT-KO-FI-URL]
 
 <!-- TABLE OF CONTENTS -->
 <div align="left">
@@ -99,10 +102,10 @@ Available on...
 Lorem ipsum.
 
 ## Download
-- Download the **latest release** [here.][DOWNLOAD-URL]
+- Download the latest release [here.][DOWNLOAD-URL]
 
 <!-- Gitea version -->
-- Download the **latest changes** of the default branch as an archive file:
+- Download the latest changes of the default branch as an archive file:
    1. View from the top of the web page, click the drop-down icon: `< > Code`
    2. Click (pick one) and save:
      - `Download ZIP`
@@ -132,7 +135,6 @@ learn, inspire, and create. *Any contributions you make are greatly*
 See [CONTRIBUTING.md][CONTRIBUTING-URL] for more information.
 
 ## Contributors
-<!-- SHIELDS -->
 
 [![Contributors][CONTRIBUTORS-COUNT-URL]][CONTRIBUTORS-URL]
 
@@ -140,7 +142,6 @@ See [CONTRIBUTING.md][CONTRIBUTING-URL] for more information.
 See [CONTRIBUTORS.md][CONTRIBUTORS-URL] for more information.
 
 ## Contact
-<!-- SHIELDS -->
 
 [![Issues][ISSUES-COUNT-URL]][ISSUES-URL]
 
@@ -148,8 +149,6 @@ See [CONTRIBUTORS.md][CONTRIBUTORS-URL] for more information.
 Open an [issue][ISSUES-URL] on the repository.
 
 ## Support
-<!-- SHIELDS -->
-
 [![ko-fi][SUPPORT-KO-FI-LOGO-URL]][SUPPORT-KO-FI-URL]
 
 ## License
