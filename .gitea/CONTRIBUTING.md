@@ -1,6 +1,7 @@
-<div align="left">
-  [![Contributors](https://img.shields.io/github/contributors/portellam/template?style=for-the-badge)](https://github.com/portellam/template/graphs/contributors)
-</div>
+[![Contributors][contributors-badge]][contributors-link]
+
+[contributors-badge]: https://img.shields.io/github/contributors/portellam/template?style=for-the-badge
+[contributors-link]: https://github.com/portellam/template/graphs/contributors
 
 Contributions are what make the open source community such an amazing place to
 learn, inspire, and create. *Any contributions you make are greatly*
