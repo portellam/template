@@ -10,15 +10,6 @@ Creative Commons. Accessed 2026-01-14.
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;Archive:&nbsp;</sup>
 <sup>No attempt.</sup>
 
-<!-- BACKLINKS -->
-<p align="right">
-  (
-    <a href="#references-top">
-      back to top
-    </a>
-  )
-</p>
-
 ### Logo
 See [here](#logo-author) for information about the author.
 
@@ -34,15 +25,6 @@ Pixabay. Accessed 2026-01-13.
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;Archive:&nbsp;</sup>
 <sup>Web page not archivable.</sup>
 
-<!-- BACKLINKS -->
-<p align="right">
-  (
-    <a href="#references-top">
-      back to top
-    </a>
-  )
-</p>
-
 ### Logo Author
 &nbsp;&nbsp;**TLAN_art - Pixabay**. Pixabay. Accessed 2026-01-13.
 
@@ -51,15 +33,6 @@ Pixabay. Accessed 2026-01-13.
 
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;Archive:&nbsp;</sup>
 <sup>No attempt.</sup>
-
-<!-- BACKLINKS -->
-<p align="right">
-  (
-    <a href="#references-top">
-      back to top
-    </a>
-  )
-</p>
 
 ### Pixabay Terms of Service
 &nbsp;&nbsp;**Terms of Service - Pixabay**. Pixabay. Accessed 2026-01-14.
