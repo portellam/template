@@ -4,7 +4,16 @@ Contributions are what make the open source community such an amazing place to
 learn, inspire, and create. *Any contributions you make are greatly*
 *appreciated.*
 
-To contribute, contact via the GitHub repository [discussions.][DISCUSSIONS-URL]
+To contribute, you may do any of the following:
+- Contact via the GitHub repository [discussions.][DISCUSSIONS-URL]
+- Open an issue with the tag `enhancement`.
+
+- Fork the repo and create a Pull Request (PR).
+  1. Fork the Project
+  2. Create your Feature Branch (git checkout -b feature/name-of-new-feature)
+  3. Commit your Changes (git commit -m 'Add some New Feature')
+  4. Push to the Branch (git push origin feature/name-of-new-feature)
+  5. Open a Pull Request
 
 <!-- BACKLINKS -->
 <p align="right">
