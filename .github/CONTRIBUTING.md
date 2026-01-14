@@ -1,8 +1,6 @@
 # Contributing
 
-<div align="left">
-  [![Contributors][CONTRIBUTORS-COUNT-URL]][CONTRIBUTORS-URL]
-</div>
+[![Contributors][CONTRIBUTORS-COUNT-URL]][CONTRIBUTORS-URL]
 
 Contributions are what make the open source community such an amazing place to
 learn, inspire, and create. *Any contributions you make are greatly*
