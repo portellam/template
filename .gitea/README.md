@@ -201,9 +201,7 @@ See [CONTRIBUTING.md][CONTRIBUTING-URL] for more information.
 
 ## Contributors
 <!-- SHIELDS -->
-<div align="left">
-  [![Contributors][CONTRIBUTORS-COUNT-URL]][CONTRIBUTORS-URL]
-</div>
+[![Contributors][CONTRIBUTORS-COUNT-URL]][CONTRIBUTORS-URL]
 
 <!-- TEXT -->
 See [CONTRIBUTORS.md][CONTRIBUTORS-URL] for more information.
@@ -219,9 +217,7 @@ See [CONTRIBUTORS.md][CONTRIBUTORS-URL] for more information.
 
 ## Contact
 <!-- SHIELDS -->
-<div align="left">
-  [![Issues][ISSUES-COUNT-URL]][ISSUES-URL]
-</div>
+[![Issues][ISSUES-COUNT-URL]][ISSUES-URL]
 
 <!-- TEXT -->
 Open an [issue][ISSUES-URL] on the repository.
