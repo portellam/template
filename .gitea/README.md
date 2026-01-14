@@ -15,6 +15,8 @@
 
 <!-- SHIELDS -->
 [![Version][VERSION-URL]][DOWNLOAD-URL]
+[![Contributors][CONTRIBUTORS-COUNT-URL]][CONTRIBUTORS-URL]
+[![Issues][ISSUES-COUNT-URL]][ISSUES-URL]
 
 <!-- CHANGEME -->
 This repository is a template. Update links and settings as necessary.
@@ -137,18 +139,9 @@ learn, inspire, and create. *Any contributions you make are greatly*
 See [CONTRIBUTING.md][CONTRIBUTING-URL] for more information.
 
 ## Contributors
-<!-- SHIELDS -->
-[![Contributors][CONTRIBUTORS-COUNT-URL]][CONTRIBUTORS-URL]
-
-<!-- TEXT -->
 See [CONTRIBUTORS.md][CONTRIBUTORS-URL] for more information.
 
 ## Contact
-<!-- SHIELDS -->
-[![Issues][ISSUES-COUNT-URL]][ISSUES-URL]
-
-<!-- TEXT -->
-To contact:
 - Visit the GitHub repository [discussions.][DISCUSSIONS-URL]
 - Open an [issue][ISSUES-URL] on the repo.
 
@@ -198,4 +191,4 @@ See [REFERENCES.md][REFERENCES-URL] for more information.
   <!-- [DOWNLOAD-URL]: ../../releases/latest -->
   [ISSUES-COUNT-URL]: https://img.shields.io/github/issues/portellam/template.svg?style=for-the-badge
   <!-- [ISSUES-URL]: ../../issues -->
-  [VERSION-URL]: https://img.shields.io/github/v/release/portellam/template?label=LABEL&sort=semve
+  [VERSION-URL]: https://img.shields.io/github/v/release/portellam/template?style=for-the-badge&label=LABEL
