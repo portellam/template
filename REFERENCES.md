@@ -19,7 +19,7 @@
   </ol>
 </div>
 
-### Creative Commons Zero (CC0)
+## Creative Commons Zero (CC0)
 &nbsp;&nbsp;**Legal Code - CC0 1.0 Universal - Creative Commons**.
 Creative Commons. Accessed 2026-01-14.
 
@@ -29,7 +29,7 @@ Creative Commons. Accessed 2026-01-14.
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;Archive:&nbsp;</sup>
 <sup>No attempt.</sup>
 
-### Logo
+## Logo
 See [here](#logo-author) for information about the author.
 
 Distributed under the [Pixabay Terms of Service](#pixabay-terms-of-service),
@@ -44,7 +44,7 @@ Pixabay. Accessed 2026-01-13.
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;Archive:&nbsp;</sup>
 <sup>Web page not archivable.</sup>
 
-### Logo Author
+## Logo Author
 &nbsp;&nbsp;**TLAN_art - Pixabay**. Pixabay. Accessed 2026-01-13.
 
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;Original:&nbsp;</sup>
@@ -53,7 +53,7 @@ Pixabay. Accessed 2026-01-13.
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;Archive:&nbsp;</sup>
 <sup>No attempt.</sup>
 
-### Pixabay Terms of Service
+## Pixabay Terms of Service
 &nbsp;&nbsp;**Terms of Service - Pixabay**. Pixabay. Accessed 2026-01-14.
 
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;Original:&nbsp;</sup>
