@@ -5,8 +5,8 @@ learn, inspire, and create. *Any contributions you make are greatly*
 *appreciated.*
 
 To contribute, you may do any of the following:
-- Contact via the GitHub repository [discussions.][DISCUSSIONS-URL]
-- Open an issue with the tag named `enhancement`.
+- Visit the GitHub repository [discussions.][DISCUSSIONS-URL]
+- Open an [issue][ISSUES-URL] with the tag named `enhancement`.
 
 - Fork the repo and create a Pull Request (PR).
   1. Fork the Project
@@ -23,3 +23,9 @@ To contribute, you may do any of the following:
 <!-- LINKS -->
 [ALEX-PORTELL-URL01]: https://github.com/portellam
 [DISCUSSIONS-URL]: https://github.com/portellam/template/discussions
+
+  <!-- Gitea compatible (uncomment as needed) -->
+  [ISSUES-URL]: ../../../../issues
+
+  <!-- GitHub compatible (uncomment as needed) -->
+  <!-- [ISSUES-URL]: ../../issues -->
