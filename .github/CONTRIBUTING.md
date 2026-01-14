@@ -1,7 +1,7 @@
 # Contributing
 <!-- SHIELDS -->
 <div align="left">
-  ![Contributors][CONTRIBUTORS-COUNT-URL]
+  [![Contributors](https://badgen.net/github/contributors/portellam/template)](https://github.com/portellam/template/graphs/contributors)
 </div>
 
 <!-- TEXT -->
