@@ -1,7 +1,8 @@
 <!-- LOGO -->
 <div align="left">
   <!-- Gitea compatible (uncomment as needed) -->
-  <!-- <a href="../../../../releases/latest">
+  <!-&emsp;
+<a href="../../../../releases/latest">
     <img width="100" height="100" src="../images/logo.svg" alt="Template"/>
   </a> -->
   <!-- GitHub compatible (uncomment as needed) -->
@@ -24,10 +25,10 @@ Download [here.][DOWNLOAD-URL]
   <h2>Table of Contents</h2>
   <ol>
     <li>
-      <a href="#mirrors">Mirrors</a>
+      <a href="#about">About</a>
     </li>
     <li>
-      <a href="#about">About</a>
+      <a href="#repository-mirrors">Repository Mirrors</a>
     </li>
     <li>
       <a href="#disclaimer">Disclaimer</a>
@@ -65,20 +66,24 @@ Download [here.][DOWNLOAD-URL]
   </ol>
 </div>
 
-## Mirrors
-Available on...
-- <a href="https://codeberg.org/portellam/template">  <!-- CHANGEME -->
-    <img title="Codeberg" height="30" src="../images/codeberg.org.png"/>
-  </a>
-- <a href="https://gitea.com/portellam/template">  <!-- CHANGEME -->
-    <img title="Gitea" height="30" src="../images/gitea.com.png"/>
-  </a>
-- <a href="https://github.com/portellam/template">  <!-- CHANGEME -->
-    <img title="GitHub" height="30" src="../images/github.com.png"/>
-  </a>
-
 ## About
 Lorem ipsum.
+
+## Mirrors
+Available on...
+</br>
+&emsp;
+<a href="https://codeberg.org/portellam/template">  <!-- CHANGEME -->
+  <img title="Codeberg" height="30" src="../images/codeberg.org.png"/>
+</a>
+&emsp;
+<a href="https://gitea.com/portellam/template">  <!-- CHANGEME -->
+  <img title="Gitea" height="30" src="../images/gitea.com.png"/>
+</a>
+&emsp;
+<a href="https://github.com/portellam/template">  <!-- CHANGEME -->
+  <img title="GitHub" height="30" src="../images/github.com.png"/>
+</a>
 
 ## Disclaimer
 > [!WARNING]
