@@ -1,6 +1,9 @@
 <!-- LOGO -->
 <div align="left">
+  <!-- Gitea compatible (uncomment as needed) -->
   <a href="../../../../releases/latest">
+  <!-- GitHub compatible (uncomment as needed) -->
+  <!-- <a href="../../releases/latest"> -->
     <img width="100" height="100" src="../images/logo.png" alt="Template"/>  <!-- CHANGEME -->
   </a>
 </div>
@@ -92,11 +95,13 @@
 ## About
 Lorem ipsum.
 
+<!-- BACKLINKS -->
 <p align="right">
   (
     <a href="#readme-top">
       back to top
-    </a>)
+    </a>
+  )
 </p>
 
 ## Disclaimer
@@ -104,21 +109,25 @@ Lorem ipsum.
 > - This is a bullet point to warn you of something!
 >
 
+<!-- BACKLINKS -->
 <p align="right">
   (
     <a href="#readme-top">
       back to top
-    </a>)
+    </a>
+  )
 </p>
 
 ## Requirements
 Lorem ipsum.
 
+<!-- BACKLINKS -->
 <p align="right">
   (
     <a href="#readme-top">
       back to top
-    </a>)
+    </a>
+  )
 </p>
 
 ## Download
@@ -141,31 +150,37 @@ Lorem ipsum.
    3. Open the archive file, then extract its contents.
 -->
 
+<!-- BACKLINKS -->
 <p align="right">
   (
     <a href="#readme-top">
       back to top
-    </a>)
+    </a>
+  )
 </p>
 
 ## Installation
 Lorem ipsum.
 
+<!-- BACKLINKS -->
 <p align="right">
   (
     <a href="#readme-top">
       back to top
-    </a>)
+    </a>
+  )
 </p>
 
 ## Usage
 Lorem ipsum.
 
+<!-- BACKLINKS -->
 <p align="right">
   (
     <a href="#readme-top">
       back to top
-    </a>)
+    </a>
+  )
 </p>
 
 ## Contributing
@@ -175,11 +190,13 @@ learn, inspire, and create. *Any contributions you make are greatly*
 
 See [CONTRIBUTING.md][CONTRIBUTING-URL] for more information.
 
+<!-- BACKLINKS -->
 <p align="right">
   (
     <a href="#readme-top">
       back to top
-    </a>)
+    </a>
+  )
 </p>
 
 ## Contributors
@@ -191,11 +208,13 @@ See [CONTRIBUTING.md][CONTRIBUTING-URL] for more information.
 <!-- TEXT -->
 See [CONTRIBUTORS.md][CONTRIBUTORS-URL] for more information.
 
+<!-- BACKLINKS -->
 <p align="right">
   (
     <a href="#readme-top">
       back to top
-    </a>)
+    </a>
+  )
 </p>
 
 ## Contact
@@ -207,11 +226,13 @@ See [CONTRIBUTORS.md][CONTRIBUTORS-URL] for more information.
 <!-- TEXT -->
 Open an [issue][ISSUES-URL] on the repository.
 
+<!-- BACKLINKS -->
 <p align="right">
   (
     <a href="#readme-top">
       back to top
-    </a>)
+    </a>
+  )
 </p>
 
 ## Support
@@ -219,11 +240,13 @@ Open an [issue][ISSUES-URL] on the repository.
 [![ko-fi][SUPPORT-KO-FI-LOGO-URL]][SUPPORT-KO-FI-URL]
 
 <!-- TEXT -->
+<!-- BACKLINKS -->
 <p align="right">
   (
     <a href="#readme-top">
       back to top
-    </a>)
+    </a>
+  )
 </p>
 
 <!-- LINKS -->
@@ -233,35 +256,44 @@ Open an [issue][ISSUES-URL] on the repository.
 Distributed under the Unlicense.  <!-- CHANGEME -->
 See [LICENSE.md][LICENSE-URL] for more information.
 
+<!-- BACKLINKS -->
 <p align="right">
   (
     <a href="#readme-top">
       back to top
-    </a>)
+    </a>
+  )
 </p>
 
 ## Acknowledgements
-Lorem ipsum.
+- [TLAN_art,][ACKNOWLEDGEMENTS-LOGO-AUTHOR-URL] for the
+[logo.][ACKNOWLEDGEMENTS-LOGO-URL]
 
+<!-- BACKLINKS -->
 <p align="right">
   (
     <a href="#readme-top">
       back to top
-    </a>)
+    </a>
+  )
 </p>
 
-## ReferenceS
+## References
 <!-- TEXT-->
 See [REFERENCES.md][REFERENCES-URL] for more information.
 
+<!-- BACKLINKS -->
 <p align="right">
   (
     <a href="#readme-top">
       back to top
-    </a>)
+    </a>
+  )
 </p>
 
 <!-- LINKS -->
+[ACKNOWLEDGEMENTS-LOGO-URL]: ../REFERENCES.md#logo
+[ACKNOWLEDGEMENTS-LOGO-AUTHOR-URL]: ../REFERENCES.md#logo-author
 [CONTRIBUTING-URL]: ./CONTRIBUTING.md
 [CONTRIBUTORS-URL]: ./CONTRIBUTORS.md
 [REFERENCES-URL]: ../REFERENCES.md
