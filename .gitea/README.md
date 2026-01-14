@@ -4,27 +4,18 @@
   <a href="../../../../releases/latest">
   <!-- GitHub compatible (uncomment as needed) -->
   <!-- <a href="../../releases/latest"> -->
-    <img width="100" height="100" src="../images/logo.png" alt="Template"/>  <!-- CHANGEME -->
+    <img width="100" height="100" src="../images/logo.svg" alt="Template"/>  <!-- CHANGEME -->
   </a>
 </div>
-</br> <!-- TODO: remove? -->
-</br> <!-- TODO: remove? -->
-</br> <!-- TODO: remove? -->
-</br> <!-- TODO: remove? -->
 
 <!-- HEADER -->
-<div align="left">
-  <h1>
-  template  <!-- CHANGEME -->
-  </h1>
-  <h6 href="../VERSION">v0.0.1</h6>
-  This repository is a template. Update links and settings as necessary. Do not push to this repository.  <!-- CHANGEME -->
-  </br>
-  </br>
-  Download [here.][DOWNLOAD-URL]
-</div>
-</br> <!-- TODO: remove? -->
-</br> <!-- TODO: remove? -->
+<h1>template</h1><!-- CHANGEME -->
+<!-- SHIELDS -->
+[![Version][VERSION-URL]]
+This repository is a template. Update links and settings as necessary. Do not push to this repository.  <!-- CHANGEME -->
+</br>
+</br>
+Download [here.][DOWNLOAD-URL]
 
 <!-- REPOSITORY MIRRORS -->
 <div align="left">
@@ -44,13 +35,9 @@
     </a>
   </p>
 </div>
-</br> <!-- TODO: remove? -->
-</br> <!-- TODO: remove? -->
 
-<!-- TABLE OF CONTENTS -->
 <div>
-  <details>
-    <summary>Table of Contents</summary>
+    <h2>Table of Contents<h2>
     <ol>
       <li>
         <a href="#about">About</a>
@@ -89,7 +76,6 @@
         <a href="#acknowledgments">Acknowledgments</a>
       </li>
     </ol>
-  </details>
 </div>
 
 ## About
@@ -307,3 +293,4 @@ See [REFERENCES.md][REFERENCES-URL] for more information.
   <!-- [DOWNLOAD-URL]: ../../releases/latest -->
   [ISSUES-COUNT]: https://img.shields.io/github/issues/portellam/template.svg?style=for-the-badge
   <!-- [ISSUES-URL]: ../../issues -->
+  [VERSION-URL]: https://img.shields.io/github/v/release/portellam/template?label=LABEL&sort=semve
