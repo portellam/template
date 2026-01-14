@@ -1,14 +1,18 @@
-[![Contributors][contributors-badge]][contributors-link]
+# Contributing
+<!-- SHIELDS -->
+<div align="left">
+  [![Contributors][CONTRIBUTORS-COUNT-URL]][CONTRIBUTORS-URL]
+</div>
 
-[contributors-badge]: https://img.shields.io/github/contributors/portellam/template?style=for-the-badge
-[contributors-link]: https://github.com/portellam/template/graphs/contributors
+<!-- TEXT -->
+To contribute, contact via the GitHub repository [discussions][DISCUSSIONS-URL].
 
-Contributions are what make the open source community such an amazing place to
-learn, inspire, and create. *Any contributions you make are greatly*
-*appreciated.*
-
-To contribute, contact via the GitHub repository [discussions](https://github.com/portellam/template/discussions).
-
+<!-- BACKLINKS -->
 <p align="right">
-  (<a href="../README.md">back to README</a>)
+  (<a href="./README.md">back to README</a>)
 </p>
+
+<!-- LINKS -->
+[CONTRIBUTORS-URL]: https://github.com/portellam/template/graphs/contributors
+[CONTRIBUTORS-COUNT-URL]: https://img.shields.io/github/contributors/portellam/template?style=for-the-badge
+[DISCUSSIONS-URL]: https://github.com/portellam/template/discussions
