@@ -14,6 +14,7 @@
 <h1>template</h1><!-- CHANGEME -->
 <!-- SHIELDS -->
 [![Version][VERSION-URL]][DOWNLOAD-URL]
+
 This repository is a template. Update links and settings as necessary. Do not push to this repository.  <!-- CHANGEME -->
 </br>
 </br>
@@ -26,15 +27,9 @@ Available on...
 - <a href="https://codeberg.org/portellam/template">  <!-- CHANGEME -->
     <img title="Codeberg" height="30" src="../images/codeberg.org.png"/>
   </a>
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  [Codeberg][CODEBERG_URL]
 - <a href="https://gitea.com/portellam/template">  <!-- CHANGEME -->
     <img title="Gitea" height="30" src="../images/gitea.com.png"/>
   </a>
-  &nbsp;
-  &nbsp;
   [Gitea][GITEA_URL]
 - <a href="https://github.com/portellam/template">  <!-- CHANGEME -->
     <img title="GitHub" height="30" src="../images/github.com.png"/>
@@ -88,7 +83,7 @@ Lorem ipsum.
 
 ## Disclaimer
 > [!WARNING]
-> - This is a bullet point to warn you of something!
+> - Lorem ipsum.
 >
 
 ## Requirements
