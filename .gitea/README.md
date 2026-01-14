@@ -177,7 +177,7 @@ See [REFERENCES.md][REFERENCES-URL] for more information.
 
 <!-- BACKLINKS -->
 <p align="right">
-  Click <a href="#readme-top">here</a> to return to the top of the page.
+  Click <a href="#top">here</a> to return to the top of the page.
 </p>
 
 <!-- LINKS -->
