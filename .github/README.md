@@ -13,9 +13,12 @@
 <!-- HEADER -->
 <h1>template</h1><!-- CHANGEME -->
 <!-- SHIELDS -->
+
 [![Version][VERSION-URL]][DOWNLOAD-URL]
 
-This repository is a template. Update links and settings as necessary. Do not push to this repository.  <!-- CHANGEME -->
+<!-- CHANGEME -->
+This repository is a template. Update links and settings as necessary.
+Do not push to this repository.
 </br>
 </br>
 Download [here.][DOWNLOAD-URL]
@@ -130,6 +133,7 @@ See [CONTRIBUTING.md][CONTRIBUTING-URL] for more information.
 
 ## Contributors
 <!-- SHIELDS -->
+
 [![Contributors][CONTRIBUTORS-COUNT-URL]][CONTRIBUTORS-URL]
 
 <!-- TEXT -->
@@ -137,6 +141,7 @@ See [CONTRIBUTORS.md][CONTRIBUTORS-URL] for more information.
 
 ## Contact
 <!-- SHIELDS -->
+
 [![Issues][ISSUES-COUNT-URL]][ISSUES-URL]
 
 <!-- TEXT -->
@@ -144,6 +149,7 @@ Open an [issue][ISSUES-URL] on the repository.
 
 ## Support
 <!-- SHIELDS -->
+
 [![ko-fi][SUPPORT-KO-FI-LOGO-URL]][SUPPORT-KO-FI-URL]
 
 ## License
