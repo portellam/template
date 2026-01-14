@@ -1,20 +1,15 @@
 # Contributors
 <!-- SHIELDS -->
-<div align="left">
-  [![Contributors][CONTRIBUTORS-COUNT-URL]][CONTRIBUTORS-URL]
-</div>
+[![Contributors][CONTRIBUTORS-COUNT-URL]][CONTRIBUTORS-URL]
 
 <!-- TEXT -->
 - [Alex Portell][ALEX-PORTELL-URL01]
 
 <!-- BACKLINKS -->
 <p align="right">
-  (
-    <a href="./README.md">  <!-- CHANGEME -->
-      back to README
-    </a>
-  )
+  (<a href="./README.md">back to README</a>)
 </p>
+
 
 <!-- LINKS -->
 [ALEX-PORTELL-URL01]: https://github.com/portellam
