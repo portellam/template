@@ -1,17 +1,19 @@
 <!-- LOGO -->
 <div align="left">
   <!-- Gitea compatible (uncomment as needed) -->
-  <!-- <a href="../../../../releases/latest"> -->
+  <!-- <a href="../../../../releases/latest">
+    <img width="100" height="100" src="../images/logo.svg" alt="Template"/>
+  </a> -->
   <!-- GitHub compatible (uncomment as needed) -->
   <a href="../../releases/latest">
-    <img width="100" height="100" src="../images/logo.svg" alt="Template"/>  <!-- CHANGEME -->
+    <img width="100" height="100" src="../images/logo.svg" alt="Template"/>
   </a>
 </div>
 
 <!-- HEADER -->
 <h1>template</h1><!-- CHANGEME -->
 <!-- SHIELDS -->
-[![Version][VERSION-URL]]
+[![Version][VERSION-URL]][DOWNLOAD-URL]
 This repository is a template. Update links and settings as necessary. Do not push to this repository.  <!-- CHANGEME -->
 </br>
 </br>
@@ -23,15 +25,15 @@ Download [here.][DOWNLOAD-URL]
     Available on...
     </br>
     </br>
-    <a href="https://codeberg.org/portellam/template">  <!-- CHANGEME -->
+    <a href="codeberg.org">  <!-- CHANGEME -->
       <img title="Codeberg" height="30" src="../images/codeberg.org.png"/>
     </a>
     </br>
-    <a href="https://gitea.com/portellam/template">  <!-- CHANGEME -->
+    <a href="gitea.com">  <!-- CHANGEME -->
       <img title="Gitea" height="30" src="../images/gitea.com.png"/>
     </a>
     </br>
-    <a href="https://github.com/portellam/template">  <!-- CHANGEME -->
+    <a href="github.com">  <!-- CHANGEME -->
       <img title="GitHub" height="30" src="../images/github.com.png"/>
     </a>
   </p>
@@ -50,10 +52,10 @@ Download [here.][DOWNLOAD-URL]
       <a href="#requirements">Requirements</a>
     </li>
     <li>
-      <a href="#download">Roadmap</a>
+      <a href="#download">Download</a>
     </li>
     <li>
-      <a href="#installation">Roadmap</a>
+      <a href="#installation">Installation</a>
     </li>
     <li>
       <a href="#usage">Usage</a>
@@ -168,15 +170,15 @@ See [REFERENCES.md][REFERENCES-URL] for more information.
 [SUPPORT-KO-FI-LOGO-URL]: ../images/support_ko-fi.svg
 
   <!-- CHANGEME -->
-  [SUPPORT-KO-FI-URL]: https://ko-fi.com/portellam
+  [SUPPORT-KO-FI-URL]: ko-fi.com
 
   <!-- Gitea compatible (uncomment as needed) -->
   <!-- [DOWNLOAD-URL]: ../../../../releases/latest
   [ISSUES-URL]: ../../../../issues -->
 
   <!-- GitHub compatible (uncomment as needed) -->
-  [CONTRIBUTORS-COUNT-URL]: https://img.shields.io/github/contributors/portellam/template.svg?style=for-the-badge
+  [CONTRIBUTORS-COUNT-URL]: img.shields.io
   [DOWNLOAD-URL]: ../../releases/latest
-  [ISSUES-COUNT]: https://img.shields.io/github/issues/portellam/template.svg?style=for-the-badge
+  [ISSUES-COUNT-URL]: img.shields.io
   [ISSUES-URL]: ../../issues
-  [VERSION-URL]: https://img.shields.io/github/v/release/portellam/template?label=LABEL&sort=semve
+  [VERSION-URL]: img.shields.io
