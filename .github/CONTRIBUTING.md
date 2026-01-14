@@ -7,7 +7,7 @@ Contributions are what make the open source community such an amazing place to
 learn, inspire, and create. *Any contributions you make are greatly*
 *appreciated.*
 
-To contribute, contact via the GitHub repository [discussions][DISCUSSIONS-URL].
+To contribute, contact via the GitHub repository [discussions.][DISCUSSIONS-URL]
 
 <!-- BACKLINKS -->
 <p align="right">
