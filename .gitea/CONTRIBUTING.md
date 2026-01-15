@@ -9,15 +9,17 @@ To contribute, you may do any of the following:
 - Open an [issue][ISSUES-URL] with the tag named `enhancement`.
 
 - Fork the repo and create a Pull Request (PR).
-  1. Fork the Project
-  2. Create your Feature Branch: `git checkout -b feature/name-of-new-feature`
-  3. Commit your Changes: `git commit -m 'Add some New Feature'`
-  4. Push to the Branch: `git push origin feature/name-of-new-feature`
-  5. Open a Pull Request
+  1. Fork the repo
+  2. Create your feature branch: `git checkout -b feature/name-of-new-feature`
+  3. Commit your changes: `git commit -m 'Add some New Feature'`
+  4. Push to the branch: `git push origin feature/name-of-new-feature`
+  5. Open a PR.
+
+---
 
 <!-- BACKLINKS -->
 <p align="right">
-  (<a href="./README.md">back to README</a>)
+  Click <a href="./README.md">here</a> to return to the top of the page.
 </p>
 
 <!-- LINKS -->
@@ -25,7 +27,7 @@ To contribute, you may do any of the following:
 [DISCUSSIONS-URL]: https://github.com/portellam/template/discussions
 
   <!-- Gitea compatible (uncomment as needed) -->
-  [ISSUES-URL]: ../../../../issues
+  <!-- [ISSUES-URL]: ../../../../issues -->
 
   <!-- GitHub compatible (uncomment as needed) -->
-  <!-- [ISSUES-URL]: ../../issues -->
+  [ISSUES-URL]: ../../issues
