@@ -30,7 +30,7 @@ Creative Commons. Accessed 2026-01-14.
 <sup>No attempt.</sup>
 
 ## Logo
-> [!INFO]
+> [!FAQ]
 > - See [here](#logo-author) for information about the author.
 >
 > - Distributed under the [Pixabay Terms of Service](#pixabay-terms-of-service),
