@@ -62,12 +62,14 @@ Available on...
   <ol>
     <li>
       <a href="#what">What</a>
-      <li>
-        <a href="#about">About</a>
-      </li>
-      <li>
-        <a href="#status">Status</a>
-      </li>
+      <ol>
+        <li>
+          <a href="#about">About</a>
+        </li>
+        <li>
+          <a href="#status">Status</a>
+        </li>
+      </ol>
     </li>
     <li>
       <a href="#why">Why</a>
@@ -77,18 +79,20 @@ Available on...
     </li>
     <li>
       <a href="#how">How</a>
-      <li>
-        <a href="#requirements">Requirements</a>
-      </li>
-      <li>
-        <a href="#download">Download</a>
-      </li>
-      <li>
-        <a href="#installation">Installation</a>
-      </li>
-      <li>
-        <a href="#usage">Usage</a>
-      </li>
+      <ol>
+        <li>
+          <a href="#requirements">Requirements</a>
+        </li>
+        <li>
+          <a href="#download">Download</a>
+        </li>
+        <li>
+          <a href="#installation">Installation</a>
+        </li>
+        <li>
+          <a href="#usage">Usage</a>
+        </li>
+      </ol>
     </li>
     <li>
       <a href="#contributing">Contributing</a>
