@@ -207,7 +207,7 @@ See [SUPPORT.md][SUPPORT-URL] for more information.
 
 ## License
 Distributed under the Unlicense.  <!-- CHANGEME -->
-See [LICENSE.md][LICENSE-URL] for more information.
+See [LICENSE][LICENSE-URL] for more information.
 
 ## Acknowledgements
 - [TLAN_art][ACKNOWLEDGEMENTS-LOGO-AUTHOR-URL], for the
