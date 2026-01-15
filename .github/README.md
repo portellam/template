@@ -27,6 +27,10 @@ Download [here.][DOWNLOAD-URL]
 </br>
 </br>
 
+<!-- SHIELDS -->
+[![ko-fi][SUPPORT-KO-FI-LOGO-URL]][SUPPORT-KO-FI-URL]
+
+<!-- LOGOS -->
 Available on...
 </br>
 </br>
@@ -52,9 +56,6 @@ Available on...
 <a href="https://github.com/portellam/template">  <!-- CHANGEME -->
   <img title="GitHub" height="30" src="../images/github.com.png"/>
 </a>
-
-<!-- SHIELDS -->
-[![ko-fi][SUPPORT-KO-FI-LOGO-URL]][SUPPORT-KO-FI-URL]
 
 <!-- TABLE OF CONTENTS -->
 <div align="left">
