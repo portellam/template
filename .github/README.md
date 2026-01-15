@@ -69,13 +69,13 @@ Available on...
         <li>
           <a href="#status">Status</a>
         </li>
+        <li>
+          <a href="#disclaimer">Disclaimer</a>
+        </li>
       </ol>
     </li>
     <li>
       <a href="#why">Why</a>
-    </li>
-    <li>
-      <a href="#disclaimer">Disclaimer</a>
     </li>
     <li>
       <a href="#how">How</a>
@@ -144,12 +144,13 @@ See [CHANGELOG.md][CHANGELOG_URL] for more details.
 ### Demonstrations
 Insert screenshots or videos here.
 
-## Why
-
-## Disclaimer
+### Disclaimer
 > [!WARNING]
 > - Lorem ipsum.
 >
+
+## Why
+Lorem ipsum.
 
 ## How
 
