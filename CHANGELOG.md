@@ -1,3 +1,5 @@
+## Changelog
+
 All notable changes to this project will be documented in this file.
 We follow the [Semantic Versioning 2.0.0](http://semver.org/) format.
 
@@ -15,3 +17,10 @@ We follow the [Semantic Versioning 2.0.0](http://semver.org/) format.
 
 ### Fixed
 - Nothing.
+
+---
+
+<!-- BACKLINKS -->
+<p align="right">
+  Click <a href="#top">here</a> to return to the top of the page.
+</p>
