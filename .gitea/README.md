@@ -121,32 +121,19 @@ Lorem ipsum.
 [![Version][VERSION-URL]][DOWNLOAD-URL]
 
 <!-- TEXT -->
-<div align="left">
-  <h2>Table of Contents</h2>
-  <ol>
-    <li>
-      <a>[x] Pre Development</a>
-    </li>
-    <li>
-      <a>[ ] Active Development</a>
-      <li>
-        <a>[ ] Testing</a>
-      </li>
-      <li>
-        <a>[ ] First Deliverable</a>
-      </li>
-    </li>
-    <li>
-      <a>[ ] Active Support</a>
-    </li>
-    <li>
-      <a>[ ] Archived</a>
-    </li>
-    <li>
-      <a>[ ] Abandoned</a>
-    </li>
-  </ol>
-</div>
+- [x] Pre Development
+- [x] Active Development
+  - [ ] ~~Testing~~
+  - [x] First Deliverable
+- [x] Paused Development
+  - [ ] ~~Feature Complete~~
+  - [ ] ~~Reprioritized~~
+  - [x] Research
+  - [ ] ~~Rest~~
+- [ ] ~~Active Support~~
+- [ ] ~~End of Life~~
+  - [ ] ~~Archived~~
+  - [ ] ~~Abandoned~~
 
 See [CHANGELOG][CHANGELOG_URL] for more details.
 
