@@ -27,59 +27,6 @@ Download [here.][DOWNLOAD-URL]
 </br>
 </br>
 
-<!-- SHIELDS -->
-[![ko-fi][SUPPORT-KO-FI-LOGO-URL]][SUPPORT-KO-FI-URL]
-
-<!-- TABLE OF CONTENTS -->
-<div align="left">
-  <h2>Table of Contents</h2>
-  <ol>
-    <li>
-      <a href="#about">About</a>
-    </li>
-    <li>
-      <a href="#repository-mirrors">Repository Mirrors</a>
-    </li>
-    <li>
-      <a href="#disclaimer">Disclaimer</a>
-    </li>
-    <li>
-      <a href="#requirements">Requirements</a>
-    </li>
-    <li>
-      <a href="#download">Download</a>
-    </li>
-    <li>
-      <a href="#installation">Installation</a>
-    </li>
-    <li>
-      <a href="#usage">Usage</a>
-    </li>
-    <li>
-      <a href="#contributing">Contributing</a>
-    </li>
-    <li>
-      <a href="#contributors">Contributors</a>
-    </li>
-    <li>
-      <a href="#contact">Contact</a>
-    </li>
-    <li>
-      <a href="#license">License</a>
-    </li>
-    <li>
-      <a href="#acknowledgements">Acknowledgements</a>
-    </li>
-    <li>
-      <a href="#references">References</a>
-    </li>
-  </ol>
-</div>
-
-## About
-Lorem ipsum.
-
-## Repository Mirrors
 Available on...
 </br>
 </br>
@@ -106,15 +53,119 @@ Available on...
   <img title="GitHub" height="30" src="../images/github.com.png"/>
 </a>
 
+<!-- SHIELDS -->
+[![ko-fi][SUPPORT-KO-FI-LOGO-URL]][SUPPORT-KO-FI-URL]
+
+<!-- TABLE OF CONTENTS -->
+<div align="left">
+  <h2>Table of Contents</h2>
+  <ol>
+    <li>
+      <a href="#what">What</a>
+      <li>
+        <a href="#about">About</a>
+      </li>
+      <li>
+        <a href="#status">Status</a>
+      </li>
+    </li>
+    <li>
+      <a href="#why">Why</a>
+    </li>
+    <li>
+      <a href="#disclaimer">Disclaimer</a>
+    </li>
+    <li>
+      <a href="#how">How</a>
+      <li>
+        <a href="#requirements">Requirements</a>
+      </li>
+      <li>
+        <a href="#download">Download</a>
+      </li>
+      <li>
+        <a href="#installation">Installation</a>
+      </li>
+      <li>
+        <a href="#usage">Usage</a>
+      </li>
+    </li>
+    <li>
+      <a href="#contributing">Contributing</a>
+    </li>
+    <li>
+      <a href="#contributors">Contributors</a>
+    </li>
+    <li>
+      <a href="#contact">Contact</a>
+    </li>
+    <li>
+      <a href="#license">License</a>
+    </li>
+    <li>
+      <a href="#acknowledgements">Acknowledgements</a>
+    </li>
+    <li>
+      <a href="#references">References</a>
+    </li>
+  </ol>
+</div>
+
+## What
+
+### About
+Lorem ipsum.
+
+### Status
+<!-- SHIELDS -->
+[![Version][VERSION-URL]][DOWNLOAD-URL]
+
+<!-- TEXT -->
+<div align="left">
+  <h2>Table of Contents</h2>
+  <ol>
+    <li>
+      <a>[x] Pre Development</a>
+    </li>
+    <li>
+      <a>[ ] Active Development</a>
+      <li>
+        <a>[ ] Testing</a>
+      </li>
+      <li>
+        <a>[ ] First Deliverable</a>
+      </li>
+    </li>
+    <li>
+      <a>[ ] Active Support</a>
+    </li>
+    <li>
+      <a>[ ] Archived</a>
+    </li>
+    <li>
+      <a>[ ] Abandoned</a>
+    </li>
+  </ol>
+</div>
+
+See [CHANGELOG][CHANGELOG_URL] for more details.
+
+### Demonstrations
+Insert screenshots or videos here.
+
+## Why
+
 ## Disclaimer
 > [!WARNING]
 > - Lorem ipsum.
 >
 
-## Requirements
+## How
+
+### Requirements
 Lorem ipsum.
 
-## Download
+### Download
 - Download the latest release [here.][DOWNLOAD-URL]
 
 <!-- Gitea version -->
@@ -134,10 +185,10 @@ Lorem ipsum.
    3. Open the archive file, then extract its contents.
 -->
 
-## Installation
+### Installation
 Lorem ipsum.
 
-## Usage
+### Usage
 Lorem ipsum.
 
 ## Contributing
@@ -148,9 +199,17 @@ learn, inspire, and create. *Any contributions you make are greatly*
 See [CONTRIBUTING.md][CONTRIBUTING-URL] for more information.
 
 ## Contributors
+<!-- SHIELDS -->
+[![Contributors][CONTRIBUTORS-COUNT-URL]][CONTRIBUTORS-URL]
+
+<!-- TEXT -->
 See [CONTRIBUTORS.md][CONTRIBUTORS-URL] for more information.
 
 ## Contact
+<!-- SHIELDS -->
+[![Issues][ISSUES-COUNT-URL]][ISSUES-URL]
+
+<!-- TEXT -->
 See [SUPPORT.md][SUPPORT-URL] for more information.
 
 ## License
@@ -175,6 +234,7 @@ See [REFERENCES.md][REFERENCES-URL] for more information.
 <!-- LINKS -->
 [ACKNOWLEDGEMENTS-LOGO-URL]: ../REFERENCES.md#logo
 [ACKNOWLEDGEMENTS-LOGO-AUTHOR-URL]: ../REFERENCES.md#logo-author
+[CHANGELOG_URL]: ../CHANGELOG
 [CONTRIBUTING-URL]: ./CONTRIBUTING.md
 [CONTRIBUTORS-URL]: ./CONTRIBUTORS.md
 [LICENSE-URL]: ../LICENSE
