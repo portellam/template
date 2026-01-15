@@ -5,11 +5,12 @@
 <!-- TEXT -->
 - [Alex Portell][ALEX-PORTELL-URL01]
 
+---
+
 <!-- BACKLINKS -->
 <p align="right">
-  (<a href="./README.md">back to README</a>)
+  Click <a href="./README.md">here</a> to return to the top of the page.
 </p>
-
 
 <!-- LINKS -->
 [ALEX-PORTELL-URL01]: https://github.com/portellam
