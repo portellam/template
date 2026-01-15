@@ -65,9 +65,6 @@ Download [here.][DOWNLOAD-URL]
       <a href="#contact">Contact</a>
     </li>
     <li>
-      <a href="#support">Support</a>
-    </li>
-    <li>
       <a href="#license">License</a>
     </li>
     <li>
@@ -137,7 +134,6 @@ Lorem ipsum.
    2. Click `Download ZIP` and save.
    3. Open the archive file, then extract its contents.
 
-
 ## Installation
 Lorem ipsum.
 
@@ -155,12 +151,7 @@ See [CONTRIBUTING.md][CONTRIBUTING-URL] for more information.
 See [CONTRIBUTORS.md][CONTRIBUTORS-URL] for more information.
 
 ## Contact
-- Visit the GitHub repository [discussions.][DISCUSSIONS-URL]
-- Open an [issue][ISSUES-URL] on the repo.
-
-## Support
-<!-- SHIELDS -->
-[![ko-fi][SUPPORT-KO-FI-LOGO-URL]][SUPPORT-KO-FI-URL]
+See [SUPPORT.md][SUPPORT-URL] for more information.
 
 ## License
 Distributed under the Unlicense.  <!-- CHANGEME -->
@@ -186,9 +177,9 @@ See [REFERENCES.md][REFERENCES-URL] for more information.
 [ACKNOWLEDGEMENTS-LOGO-AUTHOR-URL]: ../REFERENCES.md#logo-author
 [CONTRIBUTING-URL]: ./CONTRIBUTING.md
 [CONTRIBUTORS-URL]: ./CONTRIBUTORS.md
-[DISCUSSIONS-URL]: https://github.com/portellam/template/discussions
 [LICENSE-URL]: ../LICENSE
 [REFERENCES-URL]: ../REFERENCES.md
+[SUPPORT-URL]: ./SUPPORT.md
 [SUPPORT-KO-FI-LOGO-URL]: ../images/support_ko-fi.svg
 
   <!-- CHANGEME -->
