@@ -135,7 +135,7 @@ Lorem ipsum.
   - [ ] ~~Archived~~
   - [ ] ~~Abandoned~~
 
-See [CHANGELOG][CHANGELOG_URL] for more details.
+See [CHANGELOG.md][CHANGELOG_URL] for more details.
 
 ### Demonstrations
 Insert screenshots or videos here.
@@ -221,7 +221,7 @@ See [REFERENCES.md][REFERENCES-URL] for more information.
 <!-- LINKS -->
 [ACKNOWLEDGEMENTS-LOGO-URL]: ../REFERENCES.md#logo
 [ACKNOWLEDGEMENTS-LOGO-AUTHOR-URL]: ../REFERENCES.md#logo-author
-[CHANGELOG_URL]: ../CHANGELOG
+[CHANGELOG_URL]: ../CHANGELOG.md
 [CONTRIBUTING-URL]: ./CONTRIBUTING.md
 [CONTRIBUTORS-URL]: ./CONTRIBUTORS.md
 [LICENSE-URL]: ../LICENSE
