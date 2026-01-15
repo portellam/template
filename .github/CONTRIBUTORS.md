@@ -9,7 +9,7 @@
 
 <!-- BACKLINKS -->
 <p align="right">
-  Click <a href="./README.md">here</a> to return to the top of the page.
+  Click <a href="./README.md">here</a> to return to the README.
 </p>
 
 <!-- LINKS -->
