@@ -27,7 +27,7 @@ To contribute, you may do any of the following:
 [DISCUSSIONS-URL]: https://github.com/portellam/template/discussions
 
   <!-- Gitea compatible (uncomment as needed) -->
-  <!-- [ISSUES-URL]: ../../../../issues -->
+  [ISSUES-URL]: ../../../../issues
 
   <!-- GitHub compatible (uncomment as needed) -->
-  [ISSUES-URL]: ../../issues
+  <!-- [ISSUES-URL]: ../../issues -->
